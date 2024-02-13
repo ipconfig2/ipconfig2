@@ -7,7 +7,7 @@
 Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate about all things IT.
 
 
-### 🧰 Languages and Tools
+### ⚙️ Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -30,17 +30,7 @@ Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ipconfig2&theme=gruvbox&border_radius=4.5) -->
 
-<!--
-**ipconfig2/ipconfig2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+<details>
+ <summary><h3>👨‍💻 ipconfig's About Me</h3></summary>
+ Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate about all things IT. In my free time, I work away at new certifications and on my home network/server closet. Outside the professional area, you can find me hiking, playing guitar, and playing video games. I believe in the power of self-discipline and I’m always seeking new opportunities to grow. One of my greatest strengths is networking, which I've grown knowledge in through work experience, CCNA, CompTIA network+, my home network/server closet, and academic schooling.
