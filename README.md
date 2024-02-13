@@ -22,11 +22,11 @@ Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate
 <br />
 
 ### 📊 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipconfig2&langs_count=10&hide=shell&theme=kimbie_dark)](https://github.com/ipconfig2)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipconfig2&langs_count=10&hide=shell&theme=dark)](https://github.com/ipconfig2)
 <br><br>
 ![ipconfig's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipconfig2&show_icons=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ipconfig2&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ipconfig2&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ipconfig2&theme=gruvbox&border_radius=4.5) -->
 
