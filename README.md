@@ -1,9 +1,9 @@
+![](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
+
+# Welcome to my GitHub page! 👋
 ![](https://komarev.com/ghpvc/?username=ipconfig2)
 
-# ![Uploading ObiWanKenobiHelloThereGIF.gif…]()
- Hello There
-
-**`IT Specialist`**
+**`Aspiring NetworkEngineer 🧬 `**
 
 Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate about all things IT.
 
