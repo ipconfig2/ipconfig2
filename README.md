@@ -18,13 +18,13 @@ Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/apache/apache-original.svg"/>
-<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/azure/azure-original.svg"/>
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/docker/docker-original.svg"/>
-<img align="left" alt="Cloud Flare" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/cloudflare/cloudflare-original.svg"/>
-<img align="left" alt="BootStrap" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/bootstrap/bootstrap-original.svg"/>
-<img align="left" alt="Microsoft SQL server" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
-<img align="left" alt="pfsense" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/pfsense/pfsense-original.svg"/>
+<img align="left" alt="Apache" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/apache/apache-original.svg"/>
+<img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/azure/azure-original.svg"/>
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/docker/docker-original.svg"/>
+<img align="left" alt="Cloud Flare" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/cloudflare/cloudflare-original.svg"/>
+<img align="left" alt="BootStrap" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/bootstrap/bootstrap-original.svg"/>
+<img align="left" alt="Microsoft SQL server" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
+<img align="left" alt="PFsense" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pfsense/pfsense-original.svg"/>
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vim/vim-original.svg"/>
 <br />
 
