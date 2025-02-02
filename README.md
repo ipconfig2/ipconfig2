@@ -27,7 +27,8 @@ Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate
 <img align="left" alt="PFsense" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pfsense/pfsense-original.svg"/>
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vim/vim-original.svg"/>
 <br />
-
+<br />
+<br />
 ### 📊 Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipconfig2&layout=compact&theme=dark)
 <br><br>
