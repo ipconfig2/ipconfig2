@@ -1,5 +1,3 @@
-![](https://www.giantfreakinrobot.com/wp-content/uploads/2022/10/hellothere.gif)
-
 # Welcome to my GitHub page! 👋
 ![](https://komarev.com/ghpvc/?username=ipconfig2)
 
