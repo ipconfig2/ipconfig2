@@ -26,19 +26,18 @@ Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate
 <img align="left" alt="Microsoft SQL server" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/microsoftsqlserver/microsoftsqlserver-original.svg"/>
 <img align="left" alt="PFsense" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/pfsense/pfsense-original.svg"/>
 <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/vim/vim-original.svg"/>
-<br />
-<br />
-<br />
+
+<br clear="both"/>
+
 ### 📊 Stats
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ipconfig2&layout=compact&theme=dark)
-<br><br>
+
 ![ipconfig's GitHub stats](https://github-readme-stats.vercel.app/api?username=ipconfig2&show_icons=true&theme=dark)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ipconfig2&theme=kimbie_dark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ipconfig2&theme=gruvbox&border_radius=4.5) -->
-
 #
 <details>
  <summary><h3>👨‍💻 ipconfig's About Me</h3></summary>
- Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate about all things IT. In my free time, I work away at new certifications and on my home network/server closet. Outside the professional area, you can find me hiking, playing guitar, and playing video games. I believe in the power of self-discipline and I’m always seeking new opportunities to grow. One of my greatest strengths is networking, which I've grown knowledge in through work experience, CCNA, CompTIA network+, my home network/server closet, and academic schooling.
+ Hello, my name is Holden Weber. I am self-motivated, hardworking, and passionate about all things IT. I work away at new certifications and on my home network/server closet in my free time. Outside the professional area, you can find me hiking, playing guitar, and playing video games. I believe in the power of self-discipline and always seek new opportunities to grow. One of my greatest strengths is networking, which I've grown knowledge in through work experience, CCNA, CompTIA network+, my home network/server closet, and academic schooling.
